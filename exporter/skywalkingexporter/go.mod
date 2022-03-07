@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.38.0
-	go.opentelemetry.io/collector/model v0.38.0
+	go.opentelemetry.io/collector/model v0.46.0
 )
 
 require (
@@ -41,7 +41,7 @@ require (
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.36.0
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
-	google.golang.org/grpc v1.41.0
+	google.golang.org/grpc v1.44.0
 	skywalking.apache.org/repo/goapi v0.0.0-20210820070710-e10b78bbf481
 )
 
