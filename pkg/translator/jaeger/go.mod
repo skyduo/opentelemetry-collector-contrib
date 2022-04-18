@@ -5,8 +5,8 @@ go 1.17
 require (
 	github.com/jaegertracing/jaeger v1.27.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.38.0
-	github.com/stretchr/testify v1.7.0
-	go.opentelemetry.io/collector/model v0.38.0
+	github.com/stretchr/testify v1.7.1
+	go.opentelemetry.io/collector/model v0.49.0
 )
 
 require (
@@ -17,6 +17,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/uber/jaeger-client-go v2.29.1+incompatible // indirect
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
+	go.opentelemetry.io/collector/pdata v0.49.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.19.1 // indirect
