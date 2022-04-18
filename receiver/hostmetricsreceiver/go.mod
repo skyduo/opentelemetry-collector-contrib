@@ -6,9 +6,9 @@ require (
 	github.com/leoluk/perflib_exporter v0.1.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.38.0
 	github.com/shirou/gopsutil v3.21.9+incompatible
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.38.0
-	go.opentelemetry.io/collector/model v0.38.0
+	go.opentelemetry.io/collector/model v0.49.0
 	go.uber.org/zap v1.19.1
 	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71
 
@@ -32,6 +32,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/tklauser/numcpus v0.3.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
+	go.opentelemetry.io/collector/pdata v0.49.0 // indirect
 	go.opentelemetry.io/otel v1.0.1 // indirect
 	go.opentelemetry.io/otel/metric v0.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.0.1 // indirect
